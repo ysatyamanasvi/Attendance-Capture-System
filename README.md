@@ -73,7 +73,7 @@ Window is closed.
 <br><br>
 
 # Software Architecture
-<img src='project_images/1.png' style='width:25%'>
+<img src='1.png' style='width:25%'>
 <br><br>
 
 # Functionalities
@@ -81,25 +81,25 @@ Window is closed.
 <br><img src='2.png' style='width:40%'><br><br>
 
 **Lecture duration popup**
-<br><img src='project_images/3.png' style='width:40%'><br><br>
+<br><img src='3.png' style='width:40%'><br><br>
 
 **Taking Attendance Page**
-<br><img src='project_images/4.jpg' style='width:40%'><br>
-<img src='project_images/5.png' style='width:15%'>
-<img src='project_images/6.png' style='width:15%'>
-<img src='project_images/7.png' style='width:15%'><br><br>
+<br><img src='4.jpg' style='width:40%'><br>
+<img src='5.png' style='width:15%'>
+<img src='6.png' style='width:15%'>
+<img src='7.png' style='width:15%'><br><br>
 
 **Entering new Student data popup**
-<br><img src='project_images/8.png' style='width:40%'><br><br>
+<br><img src='8.png' style='width:40%'><br><br>
 
 **Taking face images of new student**
-<br><img src='project_images/9.png' style='width:40%'><br><br>
+<br><img src='9.png' style='width:40%'><br><br>
 
 **Training the model using all images**
-<br><img src='project_images/10.png' style='width:25%'><br><br>
+<br><img src='10.png' style='width:25%'><br><br>
 
 **Viewing csv attendance**
-<br><img src='project_images/11.png' style='width:50%'>
+<br><img src='11.png' style='width:50%'>
 <br><br>
 
 # Requirements
