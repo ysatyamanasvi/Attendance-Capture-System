@@ -78,7 +78,7 @@ Window is closed.
 
 # Functionalities
 **Home page**
-<br><img src='project_images/2.png' style='width:40%'><br><br>
+<br><img src='2.png' style='width:40%'><br><br>
 
 **Lecture duration popup**
 <br><img src='project_images/3.png' style='width:40%'><br><br>
