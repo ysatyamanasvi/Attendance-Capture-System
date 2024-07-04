@@ -120,15 +120,15 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/)
 <br><br>
 
 # References
-*<a herf="https://www.ukessays.com/essays/education/recognition-attendance-system-6424.php"></a>
-*<a herf="https://pypi.org/project/face-recognition/"></a>
-*<a herf="https://pypi.org/project/opencv-python/"></a>
-*<a herf="https://www.youtube.com/watch?v=sz25xxF_AVE"></a>
-*<a herf="https://analyticsindiamag.com/a-complete-guide-on-building-a-face-attendance-system/"></a>
-*<a herf="https://docs.python.org/3/library/datetime.html"></a>
-*<a herf="https://github.com/opencv/opencv/tree/master/data/haarcascades"></a>
-*<a herf="https://docs.opencv.org/3.4/db/d28/tutorial_cascade_classifier.html"></a>
-*<a herf="https://www.geeksforgeeks.org/python-haar-cascades-for-object-detection/"></a>
+*<a herf="https://www.ukessays.com/essays/education/recognition-attendance-system-6424.php">https://www.ukessays.com/essays/education/recognition-attendance-system-6424.php</a>
+*<a herf="https://pypi.org/project/face-recognition/">https://pypi.org/project/face-recognition</a>
+*<a herf="https://pypi.org/project/opencv-python/">https://pypi.org/project/opencv-python</a>
+*<a herf="https://www.youtube.com/watch?v=sz25xxF_AVE">https://www.youtube.com/watch?v=sz25xxF_AVE</a>
+*<a herf="https://analyticsindiamag.com/a-complete-guide-on-building-a-face-attendance-system/">https://analyticsindiamag.com/a-complete-guide-on-building-a-face-attendance-system</a>
+*<a herf="https://docs.python.org/3/library/datetime.html">https://docs.python.org/3/library/datetime.html</a>
+*<a herf="https://github.com/opencv/opencv/tree/master/data/haarcascades">https://github.com/opencv/opencv/tree/master/data/haarcascades</a>
+*<a herf="https://docs.opencv.org/3.4/db/d28/tutorial_cascade_classifier.html">https://docs.opencv.org/3.4/db/d28/tutorial_cascade_classifier.html</a>
+*<a herf="https://www.geeksforgeeks.org/python-haar-cascades-for-object-detection/">https://www.geeksforgeeks.org/python-haar-cascades-for-object-detection/</a>
 <br><br>
 
 # License
