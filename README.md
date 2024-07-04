@@ -120,7 +120,7 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/)
 <br><br>
 
 # References
-*<a herf="https://www.ukessays.com/essays/education/recognition-attendance-system-6424.php"></a>
+*<a herf="https://www.ukessays.com/essays/education/recognition-attendance-system-6424.php">https://www.ukessays.com/essays/education/recognition-attendance-system-6424.php</a>
 * <a herf="https://pypi.org/project/face-recognition/"></a>
 *<a herf=" https://pypi.org/project/opencv-python/"></a>
 *<a herf=" https://www.youtube.com/watch?v=sz25xxF_AVE"></a>
